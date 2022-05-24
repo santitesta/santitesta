@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there! I’m Santiago Testa</h1>
 <h3 align="center">Resilient and self sufficient Full-Stack developer from Buenos Aires, Argentina</h3>
 
-- ✨ I graduated from the bootcamp of Henry. I'm passionate about improving and learning,  and self-sufficient person who can build real life applications using technologies such as JavaScript, React, Redux, Express, SQL, and give them a unique style thanks to my knowledge in audiovisual arts.
+- ✨ I graduated from the bootcamp of Henry. I'm passionate about improving and learning, oriented to real life applications that make people lives easier.
 
 - 🔭 I’m currently working on an a few projects: 
 
