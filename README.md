@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi there! I’m Santiago Testa</h1>
-<h3 align="center">Resilient and self sufficient Full-Stack developer from Buenos Aires, Argentina</h3>
+<h1 align="center">👋 Welcome :) I’m Santiago Testa</h1>
+<h3 align="center">Fast learner and flexible Full-Stack developer from Buenos Aires, Argentina</h3>
 
 - ✨ I graduated from the bootcamp of Henry. I'm passionate about improving and learning, oriented to real life applications that make people lives easier.
 
