@@ -58,8 +58,8 @@ After winning a contest to deploy a CubeSat in the Low Earth Orbit (25 may 2022)
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.icons8.com/color/344/python--v2.png" alt="sqlite" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.icons8.com/color/344/python--v2.png" alt="python" width="40" height="40"/> </a>
 </p>
 
 
