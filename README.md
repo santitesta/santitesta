@@ -3,7 +3,7 @@
 
 - ✨ I graduated from the bootcamp of Henry. I'm passionate about improving and learning, oriented to real life applications that make people lives easier.
 
-- 🔭 I’m currently working on an a few projects: 
+- 🔭 I’m currently working on an: 
 
 <h4>React - NodeJS:</h4>
 
